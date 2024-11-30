@@ -86,7 +86,7 @@ body {
 .sixth-text {
     font-size: 2.3rem;
     left: 1%;
-    top: 60%;
+    top: 70%;
     color: #ffffff;
     opacity: 0;
     animation: bottomFadeOut 9s ease-in-out 30s forwards; 
